@@ -1,0 +1,9 @@
+<resources>
+    <string name="_0">0</string>
+    <string name="app_name">Food App</string>
+    <string name="app_name2">VIP Hot Dog</string>
+    <string name="save">Save</string>
+    <string name="kartoshka_fri">Картоша Фри</string>
+    <string name="_10000_сум">10000 сум</string>
+    <string name="todo">TODO</string>
+</resources>
